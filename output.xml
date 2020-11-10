@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="ISO-8859-15"?>
+<root>
+    <employees>
+        <lastName>Doe</lastName>
+        <firstName>John</firstName>
+    </employees>
+    <employees>
+        <lastName>Smith</lastName>
+        <firstName>Anna</firstName>
+    </employees>
+    <employees>
+        <lastName>Jones</lastName>
+        <firstName>Peter</firstName>
+    </employees>
+</root>
